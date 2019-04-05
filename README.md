@@ -2,7 +2,7 @@
 
 ### Exercise 1:
 #### Create a Node/Express backend
-* Add an endpoint for ```/tickets/seeddata/``` that will seed a Mongo collection called ```TroubleTickets``` with 3 ticket records
+* Add an endpoint for ```/tickets/seeddata``` that will seed a Mongo collection called ```TroubleTickets``` with 3 ticket records
 * Each ticket record should have the following properties ```ticket_person_reporting```, ```ticket_problem_description```, and ```ticket_date```.
 
 #### Create a React Frontend
